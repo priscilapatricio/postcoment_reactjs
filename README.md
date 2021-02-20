@@ -9,7 +9,7 @@
 <br>
 
 <h1 align="center">
-  🏆 ## Aplicação simples de post e comentários com ReactJS
+  🏆 Aplicação simples de post e comentários com ReactJS
 </h1>
 
 - Status do Projeto: Concluído :heavy_check_mark:
@@ -19,6 +19,7 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [js](https://www.javascript.com/)
+- [html5](https://html.spec.whatwg.org/)
 
 ## 💻 Projeto
 
