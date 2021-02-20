@@ -1,7 +1,6 @@
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-crédito-ao-autor">Crédito ao Autor</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-rodar">Como rodar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-licença">Licença</a>&nbsp;&nbsp;&nbsp;
@@ -9,37 +8,27 @@
 
 <br>
 
-<p align="center">
-  <img alt="Simulador Urna Eletrônica" src="/images/Vereador.png" width="100%"><br>
-  <img alt="Simulador Urna Eletrônica" src="/images/Prefeito.png" width="100%"><br>
-  <img alt="Simulador Urna Eletrônica" src="/images/Fim.png" width="100%">
+<h1 align="center">
+  🏆 ## Aplicação simples de post e comentários com ReactJS
+</h1>
 
-</p>
-
-## Simulador Urna Eletrônica
+- Status do Projeto: Concluído :heavy_check_mark:
 
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [html5](https://html.spec.whatwg.org/)
-- [css](https://www.w3.org/Style/CSS/)
 - [js](https://www.javascript.com/)
 
 ## 💻 Projeto
 
-Construção de um Simulador de Urna Eletrônica.
-
-## 🙋 Crédito ao autor
-
-Infográfico vetor criado por: [freepik-vetor1](https://br.freepik.com/vetores-gratis/colecao-de-avatares-de-pessoas_7309455.htm) e 
-
-[freepik-vetor2](https://br.freepik.com/vetores-gratis/colecao-de-avatares-de-pessoas_7309449.htm).
+Desenvolvimento de uma aplicação simples de post e comentários com ReactJS.
 
 ## 👩🏿‍💻 Como rodar
 
 - Faça um clone desse repositório;
-- Abra o arquivo html no seu navegador.
+- Faça e siga a instalação do pacote pelo terminal [Create React App](https://github.com/facebook/create-react-app).
+- Inicie o projeto (npm start) e abra o seu navegador [http://localhost:3000](http://localhost:3000).
 
 ## 🤔 Como contribuir
 
