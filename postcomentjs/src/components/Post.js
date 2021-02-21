@@ -1,4 +1,5 @@
 import React from 'react';
+import './styles/App.css'
 
 import Comment from './Comment';
 
@@ -34,7 +35,8 @@ export default class Post extends React.Component {
 
     render() {
         return (
-            <div>
+            
+                <div>
                 <h2>{ this.props.title }</h2>
                 <form onSubmit={ this.handleSubmit }>
                     <input 
@@ -47,6 +49,7 @@ export default class Post extends React.Component {
                     return <Comment key ={index} text={comment.text} />
                 })}
             </div>
+            
         );
     }
 }

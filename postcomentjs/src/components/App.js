@@ -1,16 +1,23 @@
 import React from 'react';
+import './styles/App.css'
 
 import Post from './Post';
 
 export default class App extends React.Component {
     render() { 
         return(
-            <div>
-                <h1>Hello</h1>
-            <Post title="Aprendendo ReactJS com a Rocketseat"/>
-            <Post title="ReactJS é demais!"/>
-            <Post title="Em breve mais vídeos de ReactJS"/>
+
+            <div className="card">
+                    <div>
+                        <h1>Premier League</h1>
+                        <Post title="Resultados"/>
+                        <Post title="Clubes"/>
+                        <Post title="Atletas"/>
+                    </div>
             </div>
+
+
+            
         );
     }
 }
